@@ -9,7 +9,7 @@ for i in range(number_of_students):
     students_list.append(one_student)   #prideda studento varda i lista
 
     for x in range(3):
-        grades = int(input(f"Enter grade {students_list[i]} (0-100): "))    #prasymas ivest studento pazymejima
+        grades = int(input(f"Enter grade {students_list[i]} (0-100) staudents: "))    #prasymas ivest studento pazymejima
         student_grade_sum += grades     #sumuojamos studento pazymejimus
     student_average.append(student_grade_sum/3)     #skaiciuojama studento vidurkis
     student_grade_sum = 0   #resetina studento pazymejimu suma kad apskaiciuoti kito studento pazymejimu suma
