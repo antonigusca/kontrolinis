@@ -16,6 +16,6 @@ for i in range(number_of_students):
 
 student_name_and_grade_dict = dict(zip(students_list, student_average))     #sujungiama studentu ir vidurkiu sarasus ir daromas zodymas
 for student_name, grades in student_name_and_grade_dict.items():
-    print(f"Average grade for {student_name}: {grades}")    #spausdinamas zodymas
+    print(f"Average grade for this student {student_name}: {grades}")    #spausdinamas zodymas
 
 #deja nepavyko man padaryti if'o kad tikrintu ar ivesta pazyma maziau 0 ar daugiau 100
