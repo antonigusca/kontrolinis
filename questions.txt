@@ -1,0 +1,27 @@
+What is the capital of France?
+1. Berlin
+2. London
+3. Paris
+4. Rome
+3
+
+Who wrote 'Romeo and Juliet'?
+1. Charles Dickens
+2. William Shakespeare
+3. Jane Austen
+4. Mark Twain
+2
+
+What is the largest planet in our solar system?
+1. Mars
+2. Jupiter
+3. Saturn
+4. Venus
+2
+
+In which year did the Titanic sink?
+1. 1905
+2. 1912
+3. 1920
+4. 1931
+2
